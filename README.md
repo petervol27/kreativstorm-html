@@ -5,7 +5,7 @@ Contains the main lists of my hobbies, my favorite movies and my favorite books.
 -pages:
 each page has an image from the images folder some text describing the subject and a back to main list button 
 
-<a href="https://petervol27.github.io/kreativstorm-html/" target="_blank">HTML Assignment</a>
+<a href="https://petervol27.github.io/kreativstorm-html/" target="_blank">Live view</a>
 
 ## Tech used
 
